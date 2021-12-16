@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+#h1 {
+  color: tomato;
+}
+
+.h1 {
+  color: gold;
+}
+
+h1#h1 {
+  color: silver;
+}
+h1.h1 {
+  color: royalblue;
+}

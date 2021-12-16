@@ -1,0 +1,24 @@
+html,
+body {
+  margin: 0px;
+}
+
+#id1 {
+  background: rgba(0, 0, 0, 0.88);
+  color: white;
+  margin: 0;
+  padding: 16px;
+}
+
+#id2 {
+  background: #0a6b9c;
+  color: white;
+  margin: 0;
+  padding: 16px;
+}
+
+.img {
+  width: 100%;
+  height: 400px;
+  object-fit: fill;
+}

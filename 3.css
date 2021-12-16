@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+}
+
+.header {
+  background: tomato;
+  color: white;
+
+  margin: 0;
+  padding: 16px;
+}
+
+.p1 {
+  background: lightcoral;
+  color: white;
+
+  margin: 0px;
+  padding: 16px;
+}
+
+.p1text {
+  font-size: 21px;
+  font-weight: normal;
+  font-family: monospace;
+  font-style: normal;
+}
