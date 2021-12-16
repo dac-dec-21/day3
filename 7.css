@@ -1,0 +1,15 @@
+.div1 {
+  height: 100px;
+  background: linear-gradient(lightblue, blue);
+}
+
+.div2 {
+  height: 100px;
+  /*background: linear-gradient(to right, lightblue, blue);*/
+  /*background: linear-gradient(orange, white, green);*/
+  /*background: linear-gradient(to right, orange, white, green);*/
+  /*background: linear-gradient(to left top, grey, rgba(0, 0, 0, 0.75));*/
+  /*background: linear-gradient(to right top, blue, magenta);*/
+  background: linear-gradient(120deg, blue, magenta);
+  /*background: radial-gradient(blue, magenta);*/
+}
